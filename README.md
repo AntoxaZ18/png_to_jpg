@@ -1,4 +1,4 @@
-### convertion benchmark png to jpg
+# convertion benchmark png to jpg
 
 Бенчмарк для оценки скорости конвертации больших png изображений через библиотеки PIL и OPENCV
 с использованием многопоточности
